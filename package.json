@@ -1,0 +1,27 @@
+{
+  "name": "fileManager",
+  "version": "1.0.0",
+  "description": "\"# fileManager\"",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ardiansoul/fileManager.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ardiansoul/fileManager/issues"
+  },
+  "homepage": "https://github.com/ardiansoul/fileManager#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
